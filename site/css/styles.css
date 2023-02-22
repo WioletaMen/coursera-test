@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 /* Large screen devices */
 
 @media (min-width: 992px) {
